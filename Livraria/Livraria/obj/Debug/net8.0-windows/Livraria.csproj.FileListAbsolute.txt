@@ -1,0 +1,16 @@
+C:\Users\horac\source\repos\Livraria\Livraria\bin\Debug\net8.0-windows\Livraria.exe
+C:\Users\horac\source\repos\Livraria\Livraria\bin\Debug\net8.0-windows\Livraria.deps.json
+C:\Users\horac\source\repos\Livraria\Livraria\bin\Debug\net8.0-windows\Livraria.runtimeconfig.json
+C:\Users\horac\source\repos\Livraria\Livraria\bin\Debug\net8.0-windows\Livraria.dll
+C:\Users\horac\source\repos\Livraria\Livraria\bin\Debug\net8.0-windows\Livraria.pdb
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\Livraria.csproj.GenerateResource.cache
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\Livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\Livraria.AssemblyInfoInputs.cache
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\Livraria.AssemblyInfo.cs
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\Livraria.dll
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\refint\Livraria.dll
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\Livraria.pdb
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\Livraria.genruntimeconfig.cache
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\ref\Livraria.dll
+C:\Users\horac\source\repos\Livraria\Livraria\obj\Debug\net8.0-windows\Livraria.Livraria.resources
